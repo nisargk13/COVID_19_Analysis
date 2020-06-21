@@ -5,7 +5,7 @@ In this project, I have performed some data analysis techniques on COVID-19 data
 ##  Dataset
 
 Here, I have used dataset provided by Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Dataset is collected by WHO, ECDC, US CDC, BNO news, WorldoMeters, 1Point3Arces .
-
+For dataset, use this link - https://github.com/CSSEGISandData/COVID-19 .
 
 ##  Result Screenshots
 
